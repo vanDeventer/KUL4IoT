@@ -1,6 +1,8 @@
-# Week 
-- Introduction (short text about the upcoming week)
-- Theory/lectures
-- Instructions/hands-on practice
-- Q&A, live zoom-meeting (or similar)
-- Summary (short text that summarizes the week)
+# Week 3
+1. Week's introduction
+2. Late binding
+3. Interoperability
+4. Real time and its relativity
+5. Models, documentation and training
+6. Questions and feedback (online)
+7. Week's summary

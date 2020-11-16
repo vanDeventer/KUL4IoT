@@ -26,30 +26,51 @@ The main assessment of the course is the presentation of the specifications to t
 Luleå University of Technology aspires to the concepts of [CDIO](http://www.cdio.org)  educational framework to educate its engineers. It stands for Conceiving — Designing — Implementing — Operating. It is with this alignment that the student will have to implement a "simple" IoT solution using a micro-controller as well as to write the specification to purchase a small solution related to their interest.
 
 ## Week [one](/Week1/README.md)
-1. Introduction to course,
-2. Installing the IDE and reading temperature, certificate generation,
-3. The Internet, Internet of Things, Cyber Physical Systems, Web Services,
-4. From application to specifications.
-## Week two
-1. Uploading and downloading temperature signal to and from a "cloud",
-2. Service Oriented Architecture, Late binding, 
-3. Public Key Infrastructure, 
-4. Interoperability.
-## Week three
-1. Real time and its relativity,
-2. Service reliability and its cost,
-3. Models, documentation and training.
+1. Welcome with a prelude to the course
+2. Introduction to IIoT concepts
+3. Prerequisites
+4. Installing the IDE and flashing the development board
+5. Questions and feedback (online)
+6. Week's summary
 
-## Week four
+## Week [two](/Week2/README.md)
+1. Week's introduction
+2. Service Oriented Architecture, 
+3. Authentication, Public Key Infrastructure
+5. Questions and feedback (online)
+6. Week's summary
 
-## Week five
+## Week [three](/Week3/README.md)
+1. Week's introduction
+2. Late binding
+3. Interoperability
+4. Real time and its relativity
+5. Models, documentation and training
+6. Questions and feedback (online)
+7. Week's summary
+
+## Week [four](/Week4/README.md)
+1. Week's introduction
+2. Service reliability and its cost
+3. Maintenance
+4. Evolution
+5. Questions and feedback (online)
+6. Week's summary
+
+## Week [five](/Week5/README.md)
+1. Week's introduction
+2. Specifications
+2. Questions and feedback (online)
+6. Week's summary
 
 ## Necessary material
 - Computer,
 - [STM32 Discovery kit IoT node](https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html) (B-L475E-IOT01A),
 - Micro USB cable,
-- Delsing, J. (Ed.). (2017). IoT Automation. Boca Raton: CRC Press, [https://doi.org/10.1201/9781315367897](https://doi.org/10.1201/9781315367897).
+- Delsing, J. (Ed.). (2017). IoT Automation. Boca Raton: CRC Press, [DOI](https://doi.org/10.1201/9781315367897).
+
+## Contact
+The teacher is: [Jan van Deventer](https://www.ltu.se/staff/d/deventer-1.9887?l=en)
 
 
 #IIoT #CourseDescription #KUL4
-Last updated: November 14, 2020
