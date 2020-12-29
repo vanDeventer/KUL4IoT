@@ -4,7 +4,7 @@
 ## Aim with the course
 The aim with the course is to develop an understanding of Industrial IoT (IIoT) such that one can specify what they might want when discussing or contemplating the acquisition of such solution.
 
-The course is classified as a 2.5 higher education points course, which requires an expected 100 hours of student work and 12 hours of lecture.
+The course is classified as a 2.5 higher education points course, which requires an expected 80 to 100 hours of student work and 12 hours of lecture.
 The course is given over 5 weeks (2021 weeks 7 to 12).
 
 ## Intended Learning Outcome (ILOs)
@@ -13,14 +13,15 @@ Upon completion of the course, the student should have
 - learned some of the basic implementation and challenges with IIoT,
 - introductory experience to write the specifications for an IIoT solution.
 
-## Teaching Learning Activities (TLAs)
+## Teaching & Learning Activities (TLAs)
 The course is divided into three interleaved parts:
 1. practical experience (uploading sensor data to the cloud and downloaded to a mobile phone),
 2. theoretical concepts,
 3. IIoT specifications writing.
 
 ## Assessment
-The main assessment of the course is the presentation of the specifications to the teacher and/or peers.
+- Weekly quiz
+- The main assessment of the course is the presentation of the specifications to the teacher and/or peers.
 
 ## Pedagogical approach
 Luleå University of Technology aspires to the concepts of [CDIO](http://www.cdio.org)  educational framework to educate its engineers. It stands for Conceiving — Designing — Implementing — Operating. It is with this alignment that the student will have to implement a "simple" IoT solution using a micro-controller as well as to write the specification to purchase a small solution related to their interest.
@@ -65,7 +66,7 @@ Luleå University of Technology aspires to the concepts of [CDIO](http://www.cdi
 
 ## Necessary material
 - Computer,
-- [STM32 Discovery kit IoT node](https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html) (B-L475E-IOT01A),
+- [STM32 Discovery kit IoT node](https://www.st.com/en/evaluation-tools/b-l4s5i-iot01a.html) (B-L4S5I-IOT01A),
 - Micro USB cable,
 - Delsing, J. (Ed.). (2017). IoT Automation. Boca Raton: CRC Press, [DOI](https://doi.org/10.1201/9781315367897).
 
