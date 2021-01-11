@@ -26,48 +26,131 @@ The course is divided into three interleaved parts:
 ## Pedagogical approach
 Luleå University of Technology aspires to the concepts of [CDIO](http://www.cdio.org)  educational framework to educate its engineers. It stands for Conceiving — Designing — Implementing — Operating. It is with this alignment that the student will have to implement a "simple" IoT solution using a micro-controller as well as to write the specification to purchase a small solution related to their interest.
 
-## Week [one](/Week1/README.md)
-1. Welcome with a prelude to the course
-2. Introduction to IIoT concepts
-3. Prerequisites
-4. Installing the IDE and flashing the development board
-5. Questions and feedback (online)
-6. Week's summary
+## Week 1: Internet & IoT
 
-## Week [two](/Week2/README.md)
-1. Week's introduction
-2. Service Oriented Architecture, 
-3. Authentication, Public Key Infrastructure
-5. Questions and feedback (online)
-6. Week's summary
+### Introduction video
 
-## Week [three](/Week3/README.md)
-1. Week's introduction
-2. Late binding
-3. Interoperability
-4. Real time and its relativity
-5. Models, documentation and training
-6. Questions and feedback (online)
-7. Week's summary
+- Introduction to the course
 
-## Week [four](/Week4/README.md)
-1. Week's introduction
-2. Service reliability and its cost
-3. Maintenance
-4. Evolution
-5. Questions and feedback (online)
-6. Week's summary
+- Introduction of the teacher
 
-## Week [five](/Week5/README.md)
-1. Week's introduction
-2. Specifications
-2. Questions and feedback (online)
-6. Week's summary
+### Theoretical videos
 
-## Necessary material
+- What is the big deal with the Internet?
+
+- How does the Internet work?
+
+- Connecting to an IoT node
+
+### Practical exercises
+
+- Expectations and initial knowledge
+
+- Connecting locally to an IoT node with a web browser
+
+### Q&A session
+
+### Summary videos
+
+## Week 2: Industrial considerations
+
+### Introduction video
+
+### Theoretical videos
+
+- Interoperability 
+
+- Security
+
+- Scalability
+
+- Real time
+
+- Late binding
+
+- Maintenance and long term support
+
+- Training & education
+
+- Evolution
+
+### Practical exercises
+
+- Interoperability network
+
+- Binding dynamic systems
+
+- Creating certificates and keys
+
+### Q&A session
+
+### Summary videos
+
+## Week 3: IoT with remote cloud and shadow mode
+
+### Introduction video
+
+### Theoretical videos
+
+- Hardware authentication
+
+- Downloading package on the development board
+
+- Setting up remote cloud
+
+- Setting up smart phone
+
+### Practical exercises
+
+- Logging and displaying temperature data from IoT node
+
+### Q&A session
+
+### Summary videos
+
+## Week 4: Looking at an IIoT framework
+
+### Introduction video
+
+### Theoretical videos
+
+- Local Cloud and core systems
+
+- Interoperability & security
+
+- Late binding & scalability 
+
+- Functional & non-functional requirements
+
+### Practical exercises
+
+- Functional & non-functional decomposition 
+
+### Q&A session
+
+### Summary videos
+
+## Week 5: Requirement analysis
+
+### Introduction video
+
+### Theoretical videos
+
+### Practical exercises
+
+- System of systems requirement specifications
+
+### Q&A session
+
+### Summary videos
+
+
+## Course material
+### Required
 - Computer,
 - [STM32 Discovery kit IoT node](https://www.st.com/en/evaluation-tools/b-l4s5i-iot01a.html) (B-L4S5I-IOT01A),
 - Micro USB cable,
+### Recommended
 - Delsing, J. (Ed.). (2017). IoT Automation. Boca Raton: CRC Press, [DOI](https://doi.org/10.1201/9781315367897).
 
 ## Contact
