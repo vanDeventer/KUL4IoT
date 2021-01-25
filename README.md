@@ -4,7 +4,7 @@
 ## Aim with the course
 The aim with the course is to develop an understanding of Industrial IoT (IIoT) such that one can specify what they might want when discussing or contemplating the acquisition of such solution.
 
-The course is classified as a 2.5 higher education points course, which requires an expected 80 to 100 hours of student work and 12 hours of lecture.
+The course is classified as a 2.5 higher education points course, which requires an expected 60 to 80 hours of student work.
 The course is given over 5 weeks (2021 weeks 7 to 12).
 
 ## Intended Learning Outcome (ILOs)
@@ -148,8 +148,8 @@ Luleå University of Technology aspires to the concepts of [CDIO](http://www.cdi
 ## Course material
 ### Required
 - Computer,
-- [STM32 Discovery kit IoT node](https://www.st.com/en/evaluation-tools/b-l4s5i-iot01a.html) (B-L4S5I-IOT01A),
-- Micro USB cable,
+- [STM32 Discovery kit IoT node](https://www.st.com/en/evaluation-tools/b-l4s5i-iot01a.html) (B-L4S5I-IOT01A), which can be obtained from [Digi-Key](https://www.digikey.se/product-detail/en/stmicroelectronics/B-L4S5I-IOT01A/497-B-L4S5I-IOT01A-ND/12395902),
+- Micro USB cable.
 ### Recommended
 - Delsing, J. (Ed.). (2017). IoT Automation. Boca Raton: CRC Press, [DOI](https://doi.org/10.1201/9781315367897).
 
