@@ -26,6 +26,7 @@ The course is divided into three interleaved parts:
 ## Pedagogical approach
 Luleå University of Technology aspires to the concepts of [CDIO](http://www.cdio.org)  educational framework to educate its engineers. It stands for Conceiving — Designing — Implementing — Operating. It is with this alignment that the student will have to implement a "simple" IoT solution using a micro-controller as well as to write the specification to purchase a small solution related to their interest.
 
+
 ## Week 1: Internet & IoT
 
 ### Introduction video
@@ -74,6 +75,8 @@ Luleå University of Technology aspires to the concepts of [CDIO](http://www.cdi
 
 - Evolution
 
+- Functional & non-functional decomposition
+
 ### Practical exercises
 
 - Interoperability network
@@ -92,17 +95,17 @@ Luleå University of Technology aspires to the concepts of [CDIO](http://www.cdi
 
 ### Theoretical videos
 
-- Hardware authentication
+- AWS and Mbed accounts
 
-- Downloading package on the development board
+- Getting certificate, keys and updating policy
 
-- Setting up remote cloud
+- Compiling code & flashing node
 
-- Setting up smart phone
+- Subscribing & publishing topics
 
 ### Practical exercises
 
-- Logging and displaying temperature data from IoT node
+- Sensors data and LED control of IoT node over a cloud
 
 ### Q&A session
 
@@ -114,17 +117,13 @@ Luleå University of Technology aspires to the concepts of [CDIO](http://www.cdi
 
 ### Theoretical videos
 
-- Local Cloud and core systems
+- The Eclipse Arrowhead framework
 
-- Interoperability & security
-
-- Late binding & scalability 
-
-- Functional & non-functional requirements
+- Demonstrators
 
 ### Practical exercises
 
-- Functional & non-functional decomposition 
+- Working on final assignment
 
 ### Q&A session
 
@@ -143,7 +142,6 @@ Luleå University of Technology aspires to the concepts of [CDIO](http://www.cdi
 ### Q&A session
 
 ### Summary videos
-
 
 ## Course material
 ### Required
