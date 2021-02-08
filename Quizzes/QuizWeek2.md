@@ -3,14 +3,12 @@ Industrial Considerations
 
 1. What is a Web Service?
 	- [ ] A program
-	- [ ] A web page
+	- [x] A web page
 	- [ ] A protocol
-	- [ ] A temperature value in a JSON payload
+	- [x] A temperature value in a JSON payload
 
 2. Which topics are found in Security?
-	- [ ] Authentication
-	- [ ] Authorization
-	- [ ] Accounting
-	- [ ] Encryption
-
-3. 
+	- [x] Authentication
+	- [x] Authorization
+	- [x] Accounting
+	- [x] Encryption

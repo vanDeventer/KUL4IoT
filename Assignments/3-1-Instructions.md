@@ -1,4 +1,4 @@
-# Third Week links and code
+# Third Week: IoT node with AWS Links & Code
 
 ## Sites to register to
 - [https://os.mbed.com/mbed-os/](https://os.mbed.com/mbed-os/)
@@ -60,3 +60,4 @@ or
 ## AWS IoT
 - What is AWS IoT? YouTube [video](https://youtu.be/WAp6FHbhYCk)
 
+#kul4
